@@ -1,0 +1,6 @@
+venv/
+/.idea/
+*.xml
+.vscode/
+.env
+/faiss_index/
